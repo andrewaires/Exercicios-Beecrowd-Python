@@ -1,4 +1,4 @@
-# Exercícios Beecrowd em Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Andrew-Python" align="center" height="30" width="30">
+# Algoritmos Beecrowd em Python <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Andrew-Python" align="center" height="30" width="30">
 
 Seja bem-vindo!
 
